@@ -1,0 +1,7 @@
+{
+  "name": "Semagram",
+  "description": "Semantic search over Telegram — 1M+ channels, groups and bots. Agents query GET /api/agent/search and pay per request in USDC on Base or Solana via x402; price scales with result count.",
+  "logoUrl": "/logos/semagram.png",
+  "websiteUrl": "https://semagram.io/agent-api",
+  "category": "Services/Endpoints"
+}
